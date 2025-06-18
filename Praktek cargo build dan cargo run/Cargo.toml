@@ -1,0 +1,8 @@
+[package]
+name = "rust_tutors"
+version = "0.1.0"
+edition = "2021"
+description = "Contoh penggunaan cargo dan Cargo.toml"
+
+[dependencies]
+rand = "0.8"
